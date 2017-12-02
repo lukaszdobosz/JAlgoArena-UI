@@ -21,6 +21,7 @@ import JudgeResponse from "../domain/JudgeResponse";
 import Problem from "../domain/Problem";
 import RawProblem from "../domain/RawProblem";
 
+
 const JUDGE_SERVER_URL: string = `${config.jalgoarenaApiUrl}/judge/api`;
 const PROBLEMS_SERVER_URL: string = `${config.jalgoarenaApiUrl}/problems/api`;
 
